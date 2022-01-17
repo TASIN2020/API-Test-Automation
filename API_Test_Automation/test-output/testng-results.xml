@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T20:57:12 BDT" name="Default suite" finished-at="2022-01-17T20:57:16 BDT" duration-ms="3505">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T20:57:12 BDT" name="Default test" finished-at="2022-01-17T20:57:16 BDT" duration-ms="3505">
+      <class name="TC005_Delete_Request">
+        <test-method signature="deleteUser()[pri:0, instance:TC005_Delete_Request@34f7cfd9]" started-at="2022-01-17T20:57:12 BDT" name="deleteUser" finished-at="2022-01-17T20:57:16 BDT" duration-ms="3435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- TC005_Delete_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
